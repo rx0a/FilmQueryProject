@@ -1,7 +1,7 @@
 # Film Query Project
 
 ### Overview
-This program allows users to interact with a movie database through the console. The interactive menu allows searching for films by their ID or a keyword, searching for actors by their IDs as well by a film ID. Users can view title, description, release year, language, lenght, category, rating and the actors that are in the movie. The database also allows for retrieving additional commercial information about a movie through a secondary menu. 
+This program allows users to interact with a movie database through the console. The interactive menu allows searching for films by their ID or a keyword (keyword is searched in titles and descriptions), searching for actors by their IDs as well by a film ID. Users can view title, description, release year, language, length, category, rating and the actors that are in the movie. The database also allows for retrieving additional commercial information about a movie through a secondary menu. 
 
 ### Technologies Used
 - Java
